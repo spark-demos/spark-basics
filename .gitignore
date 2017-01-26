@@ -4,3 +4,4 @@ lib/
 metastore_db/
 out/
 spark-basics.iml
+derby.log
