@@ -1,0 +1,1 @@
+print("I am running in Spark Shell \uD83D\uDE0A")
